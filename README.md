@@ -18,4 +18,5 @@ on Google Cloud Platform.
 For More Detailed Case visit : 
 
   part 1 : https://prezi.com/view/qfaGjTSmr96zFJ9EINIQ/
+  
   part 2 ( Final ) : https://prezi.com/view/3yGg18gZoejE7qCBNRlA/
