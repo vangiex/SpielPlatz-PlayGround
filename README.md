@@ -1,72 +1,21 @@
-## Project Title
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
+## Web Based GUI Interface For Cloud VM ( SSH/RDP/VNC )
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+These days there are many cloud providers intruducing virtual machines ( PAAS ) which allows 
+many benifts but tp use those VMs you should know Comand Line for the vm operationg system to
+configure it.
 
-This is where your any motivation description should go. Try and limit it to a paragraph or two, and maybe some discription
-on the objective of the project.
+This poes a road block, to use these service you either know CLI interface of system or you can
+use windows server which allows you access RDP.
 
-## Structure
+This project represent a approch that we can allow web based gui interface to the user using
+Apache Guacamole project ( more on : https://guacamole.apache.org/ ). By providing Browser based
+gui many other many other things can also be possiable like providing high speed computation to 
+rural area where people , school etc can use a simple web enable device can use it.
 
-If any of the following are applicable to your project, then the directory structure should follow industry best practices by being named the following.
+This project show one of this application by enable GUI interface on VM for rural area 
+on Google Cloud Platform.
 
-```
-dataset/
-scripts/
-notebooks/
-docs/
-```
-## Table of Contents (Optional)
+For More Detailed Case visit : 
 
-- [Installation](#installation)
-- [Clone](#Clone)
-- [Setup](#Setup)
-- [Usage](#Clone)
-- [Changelog](#Changelog)
-- [Contributing](#contributing)
-- [Credits](#Credits)
-
-## Installation
-
-Via Package Manager Name
-
-``` 
-$ cmd to install all requirements
-```
-
-## Clone
-
-```
-git clone [repo url]
-```
-
-## Setup
-
-```
-if requide
-```
-
-## Usage
-
-``` 
-Get started help and codes
-```
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md)
-
-## Security
-
-If you discover any security related issues, please email :author_email instead of using the issue tracker.
-
-## Credits
-
-- [:author_name][link-author]
-- [All Contributors][link-contributors]
+  part 1 : https://prezi.com/view/qfaGjTSmr96zFJ9EINIQ/
+  part 2 ( Final ) : https://prezi.com/view/3yGg18gZoejE7qCBNRlA/
