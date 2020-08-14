@@ -15,7 +15,7 @@ rural area where people , school etc can use a simple web enable device can use 
 This project show one of this application by enable GUI interface on VM for rural area 
 on Google Cloud Platform.
 
-For More Detailed Case visit : 
+For More Detailed Case Study visit : 
 
   part 1 : https://prezi.com/view/qfaGjTSmr96zFJ9EINIQ/
   
